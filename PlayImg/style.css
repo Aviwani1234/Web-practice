@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* border: 2px solid blue; */
+    display: flex;
+    gap: 3rem;
+    margin: 20px;
+    padding: 20px ;
+}
+
+.box{
+    border: 2px solid black;
+    /* margin-bottom: 2px; */
+    margin: 10px;
+}
+
+.box img{
+    height: 200px;
+}
